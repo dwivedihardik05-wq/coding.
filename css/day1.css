@@ -1,0 +1,12 @@
+body{
+   background-color: antiqueWhite; 
+}
+h1{
+   color: brown;
+   border-top: 2px solid rgb(164, 33, 13);
+   border-bottom: 2px solid rgb(164, 33, 13);
+   width: 30%;
+   text-align: center;
+   font-size: 100px;                                                
+   background-color: rgb(255, 255, 255);
+}
